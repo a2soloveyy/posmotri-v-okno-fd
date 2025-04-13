@@ -337,3 +337,8 @@ ol {
 .search-form__label {
   cursor: pointer;
 }
+
+.search-form__input:active {
+  text-decoration: none;
+  outline: none;
+}
